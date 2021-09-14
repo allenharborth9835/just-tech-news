@@ -1,7 +1,7 @@
-const User = require('./User.js');
-const Post = require('./Post.js');
-const Vote = require('./Vote.js');
-const Comment = require('./Comment.js')
+const User = require('./User');
+const Post = require('./Post');
+const Vote = require('./Vote');
+const Comment = require('./Comment')
 
 
 //create associations
